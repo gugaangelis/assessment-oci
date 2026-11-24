@@ -1,0 +1,31 @@
+﻿Categoria;Tipo;Recurso;Região;Compartment;Detalhe
+Volume não anexado;Boot volume;asplnxcteste (Boot Volume);sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Compute;47 GB
+IP público reservado sem uso;Public IP;assai-poc-ngw-ip-001;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;reservado e não atribuído
+Shape legado;Compute;asplnxoc0001;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Compute;VM.Standard2.4 → migrar para E5/E4 Flex ou A1/A2 Flex
+Instância ociosa;Compute;aspwinc0170 - Go-Global-1 - PRD;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 2.0% (máx. diária 4.1%) em 14d
+Instância ociosa;Compute;aspwinc0171 - Go-Global-2 - PRD;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 1.7% (máx. diária 3.6%) em 14d
+Instância ociosa;Compute;aspwinc0172 - Go-Global-3 - HML;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 1.8% (máx. diária 2.7%) em 14d
+Instância ociosa;Compute;aspwinc0173 - Go-Global-Manage 1;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 3.3% (máx. diária 6.5%) em 14d
+Instância ociosa;Compute;aspwinc0174 - Go-Global-Manage 2;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 3.0% (máx. diária 6.4%) em 14d
+Instância ociosa;Compute;aspwinc0175 - Go-Global-Manage 3;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 2.9% (máx. diária 5.2%) em 14d
+Instância parada;Compute;aspwinc1255 - OneSource REINF;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · boot/block volumes continuam cobrados
+Instância parada;Compute;aspwinc1256 - OneSource REINF;sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;VM.Standard.E5.Flex · boot/block volumes continuam cobrados
+Instância ociosa;Compute;ashlnxc1098;sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;VM.Standard.E5.Flex · CPU média 4.6% (máx. diária 8.5%) em 14d
+Bucket sem lifecycle/auto-tiering;Bucket;c43a2731a1c7710b1febafa083e9b163-1781630312-aux;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1052.6 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-veeam-365d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;25776.6 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbassai_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;169712.0 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbctm_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1164.5 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbhorus_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;40849.5 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbmsaf_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;11679.8 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbothers_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;111801.5 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbppl_15d-1;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;14668.0 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbrh_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1315.6 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zdlra-dbrub_15d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;33336.3 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-assaihst_455d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1518.7 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-db-MENSAL;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;81419.1 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-dbassai-MENSAL;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;21054.0 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-dbnfe_455d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;629.0 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-dbothers_455d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1593.7 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-dbppl-MENSAL;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;3375.8 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-sendas_455d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1137.5 GB em Standard
+Bucket sem lifecycle/auto-tiering;Bucket;os-bkp-zfs02-xantocarpa_455d;sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;1342.5 GB em Standard

@@ -1,0 +1,26 @@
+﻿Recurso;Tipo;Serviço;Compartment;OCID;ago/26*;set/26;out/26;nov/26*;Total 90d;Moeda
+exadata_prod;CloudExadataInfrastructure;Database;assaiociop/LIFT-root/PROD/DATABASE;ocid1.cloudexadatainfrastructure.oc1.sa-saopaulo-1.antxeljr67dgdjaags77dng6d25qbxmi3foqmxq5g76oefrl7uhkegc6iqga;12567.55;62837.77;64932.36;48175.62;188513.3;BRL
+dm03db01;DB Systems;Database;assaiociop/LIFT-root/DR/DATABASE;ocid1.dbsystem.oc1.sa-vinhedo-1.an3ggljr67dgdjaa76qdxmgxymwkkzcb7p2lofpfzm3gu4hus6ul3bwzpyzq;5854.89;29274.47;30250.28;22443.76;87823.4;BRL
+vmcluster_prod;Exadata VM Clusters;Database;assaiociop/LIFT-root/PROD/DATABASE;ocid1.cloudvmcluster.oc1.sa-saopaulo-1.antxeljr67dgdjaahnpegjyq4lls3pj4qsosxillefa5pbmjfytjmantmv7a;5585.9;27929.51;28860.49;21412.62;83788.52;BRL
+MountTarget-BD-DR;MountTarget;File Storage;assaiociop/LIFT-root/DR/STORAGE;ocid1.mounttarget.oc1.sa_vinhedo_1.aaaaaa4np2vx7ms2ozrxallqojxwiottmewxm2lonbswi3zngewwczbngeaaaaaa;5418.71;27093.56;27996.67;20771.73;81280.67;BRL
+greyhqszva5t/os-bkp-zfs02-db-MENSAL…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zfs02-db-MENSAL;4976.27;24881.33;25710.71;19075.69;74644.0;BRL
+greyhqszva5t/os-bkp-zdlra-dbassai_15d…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zdlra-dbassai_15d;3984.7;21096.78;21850.89;18638.66;65571.03;BRL
+greyhqszva5t/os-bkp-zdlra-dbothers_15d…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zdlra-dbothers_15d;3241.7;15986.79;16833.05;13872.16;49933.7;BRL
+gr12pjjsbpbv/bDEx18kDUNHOkfYl4zv8…;Object Storage;Object Storage;—;gr12pjjsbpbv/bDEx18kDUNHOkfYl4zv8;2942.89;15286.24;16068.8;12645.26;46943.19;BRL
+OGG;GoldenGateDeployment;GoldenGate;assaiociop/LIFT-root/PROD/OGG;ocid1.goldengatedeployment.oc1.sa-saopaulo-1.amaaaaaa67dgdjaamf2wee37ztouhqfxmbpqzdt4otnur7cvpbr4nzepsrma;2909.18;14545.89;15030.76;11158.7;43644.53;BRL
+greyhqszva5t/os-bkp-zfs02-db_MENSAL…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zfs02-db_MENSAL;1883.39;11292.62;14334.45;9826.15;37336.61;BRL
+ashlnx1099-2;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrklv56twbhrrwi4prhfvio4wwkvlbu5djlkhofw7jhoeoxurafhvq;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-10;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrfvjvjm2imuu5kzwnr4pe64vtcebxfanz5iql33feybjxsgal6xsq;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-7;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrnu7qp6udgt36acacmdk52xcfir45hpshwah2n7tyzznycc5lgx3q;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-4;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrg5mfjyrturhhklggqyybambcdn2ucecvwlfgs2btlmnbmvv3nepa;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-9;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrxt2ukcdo7fbo2r767rh57lwq4bxuelsqhyvheoup4edg4l2ze44a;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-5;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrhm3rmm4ur2al332qa7yst7poaluefekyd2vwn22j2nlhal3oiroq;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-8;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljr3dxeqimyn6omuvyd3xjh3uscbla5cvg7vifw45tgdcf3wembamka;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-1;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrto2tyvslvlaczf3asaignrxsy7zuhbzjjzpdahzd2eom7fijmkya;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-6;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrehxychrdvpptdlxfuzsmk3utfv3qahl7tysgggmkoe5z7ewtr3qa;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+ashlnx1099-3;Block volume;Block Storage;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrh72ecxsmzritqulwaekfee5josorqungdtxjzsjxwn2tkkljwxba;1350.44;6752.22;6977.29;5176.7;20256.65;BRL
+greyhqszva5t/os-bkp-zfs02-dbassai-MENSAL…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zfs02-dbassai-MENSAL;1309.13;6545.63;6763.82;5018.32;19636.9;BRL
+ashlnxc1098;Compute;Compute;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacmmnokdd7aurvczihvxsdxosb2vjqyagptyvtmks5icwq;1010.04;5050.19;5218.53;3994.66;15273.42;BRL
+ashlnxc1097;Compute;Compute;assaiociop/LIFT-root/NON-PROD/WORKLOAD;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacqwns6ct6n2jos54hglg3rx7oo7sp5hh4ymq5xbaaf2fa;1010.04;5050.19;5218.53;3994.47;15273.23;BRL
+vmcluster_nonprod;Exadata VM Clusters;Database;assaiociop/LIFT-root/NON-PROD/DATABASE;ocid1.cloudvmcluster.oc1.sa-saopaulo-1.antxeljr67dgdjaa5vob7ewt7udcjqp4vdz5sqwncvqmsel2uoyfpg3dk5wa;930.98;4654.92;4810.08;3568.77;13964.75;BRL
+greyhqszva5t/os-bkp-zdlra-dbhorus_15d…;Object Storage;Object Storage;—;greyhqszva5t/os-bkp-zdlra-dbhorus_15d;858.42;4645.61;4522.26;3823.13;13849.42;BRL

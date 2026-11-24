@@ -1,0 +1,136 @@
+﻿Região;Compartment;Tipo;Nome;OCID;Alarme;Log de serviço;Emitindo métricas;Tag
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/DATABASE;Exadata VM Clusters;vmcluster_nonprod;ocid1.cloudvmcluster.oc1.sa-saopaulo-1.antxeljr67dgdjaa5vob7ewt7udcjqp4vdz5sqwncvqmsel2uoyfpg3dk5wa;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/DATABASE;Exadata VM Clusters;vmcluster_prod;ocid1.cloudvmcluster.oc1.sa-saopaulo-1.antxeljr67dgdjaahnpegjyq4lls3pj4qsosxillefa5pbmjfytjmantmv7a;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/DataBase;DB Systems;DBCTM;ocid1.dbsystem.oc1.sa-saopaulo-1.antxeljr67dgdjaae5zdxqx7gabf2vg5piweyozlj5fzs32ujodp6s3kocga;NÃO;n/a;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/DATABASE;DB Systems;dm03db01;ocid1.dbsystem.oc1.sa-vinhedo-1.an3ggljr67dgdjaa76qdxmgxymwkkzcb7p2lofpfzm3gu4hus6ul3bwzpyzq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Compute (VMs/BM);ashlnxc1097;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacqwns6ct6n2jos54hglg3rx7oo7sp5hh4ymq5xbaaf2fa;NÃO;n/a;sim;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Compute (VMs/BM);ashlnxc1098;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacmmnokdd7aurvczihvxsdxosb2vjqyagptyvtmks5icwq;NÃO;n/a;sim;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc1256 - OneSource REINF;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjaczqdtekctkwmslnomlilejqcvx6utu7i5o6u7ejrfzyeq;NÃO;n/a;NÃO;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc1255 - OneSource REINF;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacomyy5gskzgf7ja5l35xwapdzg66wxvrzawbojprubhfa;NÃO;n/a;NÃO;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Compute (VMs/BM);ashlnxc1099;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacjayw3nsotgwj2lkea34qc77irgqpuqb4uj75qloyp4sq;NÃO;n/a;NÃO;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0174 - Go-Global-Manage 2;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjac4tm6plmvpwtp5tllbketuktqw7tgdmkuqhdwjup6utxa;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0171 - Go-Global-2 - PRD;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjac3eibt6ejjhk3cp73wsobrepk4jhlxksl6ixia2tk2l4a;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0170 - Go-Global-1 - PRD;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjac6a2ow423ve5o32wdqnxs6cakamilh7rridewjrhtndxa;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0173 - Go-Global-Manage 1;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacx6k72dojrviq7skfkgra553wzngwl7z5gvvdkaeqv62a;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0175 - Go-Global-Manage 3;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacnwfy4tu7tvkexzr2husjkpg5ki2g5vja3ae7zwx3j4yq;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Compute (VMs/BM);aspwinc0172 - Go-Global-3 - HML;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjachz75ixnedbgt2hyiw3rrmxi7rvnhhb76vqoarm5bovqa;NÃO;n/a;sim;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Compute;Compute (VMs/BM);asplnxoc0001;ocid1.instance.oc1.sa-saopaulo-1.antxeljr67dgdjacqxgdsue73dbi4lf6vfn35cbhpiur34knfedmvphkez6q;NÃO;n/a;NÃO;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;FastConnect;FAST5G-SP4-SEC;ocid1.virtualcircuit.oc1.sa-saopaulo-1.amaaaaaa67dgdjaagxpux6pgvwm7ck5ycx7pb2xumqoe25eg5r4uaamioyla;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;FastConnect;FAST5G-SP4-PRI;ocid1.virtualcircuit.oc1.sa-saopaulo-1.amaaaaaa67dgdjaa6euddryhozrjpmp2q6l4f5ubwqyuos4rnp7uk4lae3aq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;FastConnect;fast10G-SP4-1;ocid1.virtualcircuit.oc1.sa-saopaulo-1.aaaaaaaab4dawojwfo5pcqemoxjydhuhs4gdn2i775xugxwbo2cwyf72dbaa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;FastConnect;fast10G-SP3-1;ocid1.virtualcircuit.oc1.sa-saopaulo-1.aaaaaaaa7x64xhhj7aawp6hy6vrnodmgqqsnlyr6455ajiodt63dgop6vwpa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;FastConnect;FAST5G-SP3-SEC;ocid1.virtualcircuit.oc1.sa-saopaulo-1.aaaaaaaa62gixkgdfxa37ci4t2kb7zdx3byj43gaqubmspx22y4oav5gk33a;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;FastConnect;FAST5G-SP3-PRI;ocid1.virtualcircuit.oc1.sa-saopaulo-1.aaaaaaaafeqzbzh26cn54v6jeiqc7pml42bbnhlpfgvsyitao7z5pvadhaeq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Boot Volumes;ashlnxc1097 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrjfq5jquw3hfobx76h6dpw4hnxmelfssor5uami6accofhf3huw3q;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Boot Volumes;ashlnxc1098 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrhzrtta5rglmhbuxdzfcgxoc6kvudtaie6xuoasdnettqzgajncsq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;aspwinc1256 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrhoncntvri4ql56tvsfymid4nxxccmahawccx2ebf7xr3ccz2vmpq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;aspwinc1255 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrobyvlxnigg424qreaerbr63hqvzwnah2d3n7qp6z6cf2tvu755ja;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Boot Volumes;ashlnx1099 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrriiftdgp56uk2ehonrujosbcfva6ror5pnuxjkv3ya6eeaplgaoq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Go-Global-Manag (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljra7dm4mhwfyknttx5betfurmcdgsb5xonk5m7t6uaugeojdqbwqlq;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Go-Global-3 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljr5ko3e2xeghfhr65q5u3na6d3ljtudinr5uog4pzyrtczblemn5ha;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Load-Balance-2 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljr7y32y37q4rmu6rilrimvv3sqgnn25xukllunofzkruqwi35xrqnq;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Go-Global-2 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrnf4wtncflyrq5smljapb2rgvxl5lok5biy4auolvuxs43ovjemga;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Go-Global-1 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljr266yh7bvbqk3o7dqmb4pe4xibe3o2kbpncjewjm4zmja7x3l2aua;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/WORKLOAD;Boot Volumes;Load-Balance-1 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljr23hlnruzfd4hrzs3pufp2mvfyh5odnbi7iwittkohesari3mzppa;NÃO;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Compute;Boot Volumes;asplnxoc0001 (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrergr4pns4kurlsr6eeaqenaehzsbivwflgyky65fszpsbvrv6lmq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Compute;Boot Volumes;asplnxcteste (Boot Volume);ocid1.bootvolume.oc1.sa-saopaulo-1.abtxeljrckkadn4wqyj7ij6qcwsauh2nr5jvd4nzto6su2glzhoj5ppchlyq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;c43a2731a1c7710b1febafa083e9b163-1781630312-aux;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaam7uvgjwmkvka3qbfjjyzpzvdvka3vcabxyzqdn3fesov4vpjs74a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop;Object Storage Buckets;Veeam-Archive;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaasdtavph6ebnjvenbuobzm3iwenqmgwf2zpnffmlv32lsy2tsv4ia;NÃO;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop;Object Storage Buckets;Veeam-Diario;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaamzb7s4i6nfvh5hhphabnssc7mousor6gkgbevqwn3bsocwy5udma;NÃO;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;oci-bkp-dbmsaf-db-MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaamglruepo3zvwchsxmqkx4zr72r355vpgznjogbylazbusvjbhrka;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;oci-bkp-dbmsaf-db_MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa6ywd6sqfynx37tindxoxn4tbrs3drg2y6glz23rlehtwrrqif74q;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Object Storage Buckets;delphix_image;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaah3ydgmlx6wntqgv6vclnhtim2ka4z3ud7usb5iaeurskpnsimk7q;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/DR;Object Storage Buckets;prod-fsdr-gru;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaagswbnt5cc3obazmfyji2qnrpp377m3vleeg6ffc6z6wemzlryxaq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-teste-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaas3hkxd5sgkl6q4nz3mb5jccmqnlcx5ro5vuuzspux3vtbzjnmfva;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-teste;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaasxearxsockhkj7smbw3bqmwegpehyfthm2odrow5vapdtvookxxq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbrh_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaer3bl4an7sabuswzdbp5y7et6sosv4y43qgpckdrg3cb7n6vmloq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbrh_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa2nixd376umyau654ynbuphu4d5pqxljmkop7qy3opkqbk2n7t25a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbsitef_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaafgc36c6e2lefds7vooknzxtkcdhptuxwd7gznkzekghby7egntvq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbsitef_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaan6zy2axmgohppkjy32bm7dbwlpt6jyxt4vhrnpnsecizv6sq2gua;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbctm_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaanh3vp6zeafb3ohcr24ydxqagwruutbakfdb56e7u6tdj7zmydoyq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbctm_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa3fqjhqonjdpx6xjtbuopgsrg2l2e547dunexpjuymljdwybaxjka;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-db_ANUAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaakuxqieymunumx6c5up26y6kvdy7emgpxpmvdnom6e2ipcf5js4dq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-db_SEMESTRAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa527vi6rf2rattiilu72i22rvzg66ipmxl2u6sigdlimifbwxomeq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-db_MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaparwqe24evmp7zkyf4zgv3uimogde3rfxjcdpjbqncsp2gl5umra;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-dbppl-MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaurjld6kxdvddgmy7apevt2o44tqclgastjvhifmpaiqassvhw3sa;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-dbassai-MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaagjsvpidyzkywvdmaauicdbckycxrus47zd7rwpo3sufbpyx2acea;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-db-MENSAL;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaawuuxvbt4rymzxl76ytq6ncxksw4ydbdwoe26yfivyvqfwl2vjj6a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbppl_15d-1-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaasdrldm542ljbzhwb54tjfodtdf3qehnpr23lfvtmyhbzkot56geq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbppl_15d-1;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaatgy436qodhyvkrhbu4bvxe3vd7fmnu77tfupva64oqzzw5gpnszq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-veeam-365d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaamqtrhjhlyjaurpvy3gwinkr4dsfdd3lbgmmd6pgnsxh2eebhy44a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbmsaf_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaawue2exv2odbqwv7znvd3yzgwb6o4rstzto6vzrz27gysuskwfadq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbmsaf_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaalp3tetfr6doat4bu7gru2ujfsomtdvm5vqujj32j2vjtwtyqljna;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbothers_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaanl6qux6adzoiou5zmywcpdt7vygrsuin2k34hxv5wvtbixxjoqnq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbothers_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaakr3elbr5ak343gbdbb53kaewn3u6rths3liugtksffbkhobrhr7q;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbhorus_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaj7vo7fd74xd33xqxplgyq5ferhvhl24lnhctjvbpgurezoggjqaa;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbhorus_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaot3rktz3573lg5rgtlumgbxuvmvdv5lx2kkicpz2gadrud4pkezq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbrub_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaavf3qi2mylno377kqa6mcxisppfvsutab2dnvyurixikxq7zlovbq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbrub_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaoin25turtwpbcgvdpfncl4jntxwwotp6dcn75lasbkk66t4p7jga;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbassai_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaawqoii3hnu63iga64aih42yxjumqbexuth4bxf7xf7g2mcoak7dga;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbassai_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaauoq3v4adgk5hr5lllhsdoktnwm3linshx2vzzs3ar6ynr6auilbq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbppl_15d-meta;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaakctx7dig7w7rkeejjvvl3nhyrbq3sru2igdbjweaa47ucveaezkq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbppl_15d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa7ycsmwufz77gd7tl5jpsrmwcxlmjcev7hpf6t4hg5noselpuiniq;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-veeam-30d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaalljz2xn7vp6ghqwkrg74ennc2pjnvycenwgvst2tc4nmu4ufjf5q;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-dbothers_455d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaavikhxa6zqzm77cjcfdlqokolyefoivicc4hq7bcnwolge7dqiupa;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-xantocarpa_455d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaacfqmcdpqbixnbjprupgnehhm7ghrdgakw75mnxiga6jngng4nx7a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-assaihst_455d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaas35jxpn7fami6dbhf2lwjkml3x4envkdezgh5g3ygexepzjti4fa;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-sendas_455d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaqiew2xw74fr2uwmnv5owj6uusrhdxutxiueqz63dgu5cxovlhu7q;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zfs02-dbnfe_455d;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaa3uh5ibkllbbbd7wnetmcfphxhkofuvaqjdo52eukaluhnnbt5b7a;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-zdlra-dbrh;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaarmwjwbd6h5kniim5d5cm4353iafc2tbiaipklp4db4273dqnekna;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;os-bkp-oracle-dbrh;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaaus6oh5oxhxqsxzivycvyzrgjpubflft7yivay7dglqje5jz3n5ra;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Storage;Object Storage Buckets;veeam-bkp-equinix;ocid1.bucket.oc1.sa-saopaulo-1.aaaaaaaapivm52d2n52je3vc24fxnjbwpyv65glcqp6z4rdsodu4w3jwzpxq;NÃO;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR;Object Storage Buckets;prod-fsdr-vcp;ocid1.bucket.oc1.sa-vinhedo-1.aaaaaaaaeit2kn4ztdwamk3gp4kht2s2k5vy4gw4jt4yxe2aish3nvkg5fja;NÃO;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/DATABASE;Databases (DB System);dbmsaf;ocid1.database.oc1.sa-saopaulo-1.antxeljr67dgdjaao2pmo3g2umgd3y3hkirpawhepazjcasdygkbkobtkqdq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/DATABASE;Databases (DB System);msafhml;ocid1.database.oc1.sa-saopaulo-1.antxeljr67dgdjaa6fy3l67tbwioecszavg6s2hmpatxwpkh23jdjok77vqq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/DATABASE;Databases (DB System);msaf;ocid1.database.oc1.sa-saopaulo-1.antxeljr67dgdjaaosfbtanzzpsttwuz6c4uccah44mne3yf2y5xmnolczwq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/DataBase;Databases (DB System);dbctmdg;ocid1.database.oc1.sa-saopaulo-1.antxeljr67dgdjaasoq3hyqu2s7la3lxeg5uqwjfftimol6o6342pifdzjvq;NÃO;n/a;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/DATABASE;Databases (DB System);msaf;ocid1.database.oc1.sa-vinhedo-1.an3ggljr67dgdjaaar23nbal2xcftgc6lizaak4heiyfppab6u5ncwggplwq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;DRGs;GRU-PROD-DRG;ocid1.drg.oc1.sa-saopaulo-1.aaaaaaaav36yfarmj7ox7gpj2ixooszqovtaxefvboi4z4z7hiokky67agqa;n/a;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;DRGs;drg-assai-op-oci-001;ocid1.drg.oc1.sa-saopaulo-1.aaaaaaaax2bslwardbvmcbuhgsvj5skntmge4y2c543s7ouitzhlwzdz7lma;n/a;n/a;n/a;NÃO
+sa-vinhedo-1;assaiociop/Assai-op-oci-Compartment/Network;DRGs;VCP-DR-DRG;ocid1.drg.oc1.sa-vinhedo-1.aaaaaaaaguq6mxf2lj42cl7z2ioy5nmooozsk264l7q45yynvq2z4c3h2bva;n/a;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/STORAGE;File Storage;FileSystemPRD;ocid1.filesystem.oc1.sa_saopaulo_1.aaaaaaaaaal7qjt3m5zhkllqojxwiottmewxgylpobqxk3dpfuys2ylefuyqaaaa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/STORAGE;File Storage;FileSystemHML;ocid1.filesystem.oc1.sa_saopaulo_1.aaaaaaaaaal5v5txm5zhkllqojxwiottmewxgylpobqxk3dpfuys2ylefuyqaaaa;NÃO;n/a;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/STORAGE;File Storage;FileSystemDR;ocid1.filesystem.oc1.sa_vinhedo_1.aaaaaaaaaamb747hozrxallqojxwiottmewxm2lonbswi3zngewwczbngeaaaaaa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-NON-PROD-MSRV;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaa2ovowcvksmgrlwsjplaihsxrtbe47y5oyyxujmi6hqwi6ugwlfea;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-NON-PROD-APP;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaawz7av66rhcxjk2jvvlvwp5fk6y7jorbunljbdkjkwbsebwgaygqa;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-NON-PROD-DBCLT;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaar7qy5pv7ejpszjson5yfh3adim224qg6rg5uf7xj5b77agplcweq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-DEVQA-DATALAKE;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaanrj54ooujlrykma3zjzm4fvlcprcdzqjyt5f5c2hqnqm5fxte4bq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-NON-PROD-DATALAKE;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaaiyv6tgko6bcn7wm6wkg4vcmeqlqpgonzwbmpppijx75ubxwfptwa;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-DEVQA-APP;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaasxczrmbgsq7te2vsuqbghegrko7hwesmimgrarpss755qlxelneq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-DEVQA-MSRV;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaacgfonhhklg7a3ngk46rn5236yomtvxmuknd35ildzp6qdktp4tsa;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-DEVQA-DBCLT;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaap3xvduaimbnihkewc57f2bvdhrzashkjnb2abosjs6c3ifqgwtla;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-DEVQA-LOGGIN;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaadku7lejle3xa4gi3lkk2xjckvmave2drfihnjnjjmi3yvtbbkp4a;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;Subnets;SBNT-GRU-NON-PROD-LOGGIN;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaarubr4jmokwggt62qb2mvtd7rxhmcoqclkj4k5nrlpwi4lvzcs3na;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-DATALAKE;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaa226jiydx2t3dhlfg2lpshgiiwzi6cg73al5htr3nx4olq6cchovq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-DBCLT;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaaaanlp6y77b3rrzmgke4jhtkhnbgijshmr76qwdwdno5oqgtwy5bq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-MSRV;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaaslrfvzd2kwryacvnk2ppvkp55oaitfz26rw6nikbovpiru5kux5a;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-LOGGIN;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaazjn3huydhhxd7cyeanzbxxykjnwuk3kpd224hnw6cmj4kkd3zy5q;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-BKP;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaatjqhsrpwtgqko7msjw5gh5zy7bsv3mmrxcp4umcwtthjb4tvuwrq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-DBBKP;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaa64nwyb6mnajztz5ymnmyj44orvlapo22pi6cvxpwjqqnlm6hl4lq;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;Subnets;SBNT-GRU-PROD-APP;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaawmtef4rlkeivterjjo274s646jy2fmfrow6ixyfalba3cr7v4cta;n/a;NÃO;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;Subnets;net-assai-op-oci-lb-002;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaatjlntpe3demvlhszzfiruztegjms74ayrfk4w2awembv4o75t2mq;n/a;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;Subnets;net-assai-op-oci-db-001;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaav45kfnfvkwacujyokjkjtzrglum364b6mvicfitwukmsqb5olswa;n/a;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;Subnets;net-assai-op-oci-lb-001;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaafnwlaemtn4l6cw2josfsw6hnc4nibxebhhqkddjuv6cdpv4hd3ca;n/a;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;Subnets;net-assai-op-oci-geral-001;ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaasm6psjppr7ne4opw62mcfx5trzsn7bc3t653pqovtdj7s4sphefq;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-DATALAKE;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaabvxyynibaxyx562snchn5npg4nuuplxampeb3slu7ilbudp3bteq;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-LOGGIN;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaamwiegq4x7twspz3mbbt34cbhlq5wvmvbqfdsx7s2dj5nfreqy2pa;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-MSRV;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaadmnglc6r3dquz6oomegizzoob7ah6wofvijuaqo4pmoysnmidunq;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-APP;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaagzd52lpvkdbs2pdffcy46zqote2vsal2vytpj5eiydv6om5snd3a;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-BKP;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaavama272vqvn6i6sbi53dfet3lspe7uznmknasbyrd3pz3xdnc4lq;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-DBBKP;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaan4arzdlj3vvxnwdmr3u3ly75qrn26i52jl3zzjlfe2pu6wb7jypq;n/a;NÃO;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;Subnets;SBNT-VCP-DR-DBCLT;ocid1.subnet.oc1.sa-vinhedo-1.aaaaaaaa2okl7cv2sky4f3uz2qji3clxdwq7ikqh2s7mo2fsybtk3xpfa5fq;n/a;NÃO;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/PROD/SHARED/NETWORK;VCNs;GRU-PROD-VCN;ocid1.vcn.oc1.sa-saopaulo-1.amaaaaaa67dgdjaawh6asieeh6hqjohtpsjargxbvkkqbqukxwecspxptd6q;n/a;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/SHARED/NETWORK;VCNs;GRU-NON-PROD-VCN;ocid1.vcn.oc1.sa-saopaulo-1.amaaaaaa67dgdjaahbzgjmi46iozbvjacok6gpu3yy6osqkid6dyggkltana;n/a;n/a;n/a;sim
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;VCNs;vcn-assai-op-oci-002;ocid1.vcn.oc1.sa-saopaulo-1.amaaaaaa67dgdjaaq4xs2i6zgn22zstbisw6la5rcgre6gxajqx2vwja3fua;n/a;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/Assai-op-oci-Compartment/Network;VCNs;vcn-assai-op-oci-001;ocid1.vcn.oc1.sa-saopaulo-1.amaaaaaa67dgdjaat6oembqvhv2lgtco2ekjulq6kgl5tw2o4wew3u25jnuq;n/a;n/a;n/a;NÃO
+sa-vinhedo-1;assaiociop/LIFT-root/DR/SHARED/NETWORK;VCNs;VCP-DR-VCN;ocid1.vcn.oc1.sa-vinhedo-1.amaaaaaa67dgdjaahphul345exvuhszzfvkzh22buweoyskrr47klouy5gma;n/a;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-10;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrfvjvjm2imuu5kzwnr4pe64vtcebxfanz5iql33feybjxsgal6xsq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-9;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrxt2ukcdo7fbo2r767rh57lwq4bxuelsqhyvheoup4edg4l2ze44a;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-8;ocid1.volume.oc1.sa-saopaulo-1.abtxeljr3dxeqimyn6omuvyd3xjh3uscbla5cvg7vifw45tgdcf3wembamka;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-7;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrnu7qp6udgt36acacmdk52xcfir45hpshwah2n7tyzznycc5lgx3q;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-6;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrehxychrdvpptdlxfuzsmk3utfv3qahl7tysgggmkoe5z7ewtr3qa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-5;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrhm3rmm4ur2al332qa7yst7poaluefekyd2vwn22j2nlhal3oiroq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-4;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrg5mfjyrturhhklggqyybambcdn2ucecvwlfgs2btlmnbmvv3nepa;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-3;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrh72ecxsmzritqulwaekfee5josorqungdtxjzsjxwn2tkkljwxba;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-2;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrklv56twbhrrwi4prhfvio4wwkvlbu5djlkhofw7jhoeoxurafhvq;NÃO;n/a;n/a;NÃO
+sa-saopaulo-1;assaiociop/LIFT-root/NON-PROD/WORKLOAD;Block Volumes;ashlnx1099-1;ocid1.volume.oc1.sa-saopaulo-1.abtxeljrto2tyvslvlaczf3asaignrxsy7zuhbzjjzpdahzd2eom7fijmkya;NÃO;n/a;n/a;NÃO
